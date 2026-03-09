@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: minecraftia, sans-serif;
+    background: #e4ecff;
+}
